@@ -1,4 +1,4 @@
-<h1>PDFs & CDFs</h1>
+<h1>Probability Mass Functions (PMF) & Cumulative Density Functions (CDF)</h1>
 
 <br>
 
